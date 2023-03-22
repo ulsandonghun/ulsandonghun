@@ -20,4 +20,4 @@
 http://ulsanboy.tistory.com
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ulsandonghun})](https://solved.ac/{ulsandonghun})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={lavie67})](https://solved.ac/{lavie67})
