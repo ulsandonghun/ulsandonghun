@@ -49,6 +49,8 @@ Here are some ideas to get you started:
  <h3 align="center">✍️ Tech Blog</h3>
  <p align="center"> http://ulsanboy.tistory.com </p>
  
+ <h3 align="center">✍️ Learning Algoritm</h3>
+ 
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lavie67)](https://solved.ac/lavie67/)
  
