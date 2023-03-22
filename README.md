@@ -32,17 +32,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
-<br/>
-<h3 align="center"> 👍 &nbsp;사용할 줄 알아요.</h3>
-<p align="center">
-
- <br/>
- 
- <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>  
-  
- <br/>
- 
 </p>
 
 <br/>
