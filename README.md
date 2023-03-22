@@ -38,10 +38,9 @@ Here are some ideas to get you started:
 <p align="center">
 
  <br/>
- <a href="#"><img src="https://img.shields.io/badge/Vue.js-00b97a?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp
+ 
  <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp  
- <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp  
- <a href="#"><img src="https://img.shields.io/badge/-JavaScript-ECD53F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  
  <br/>
  
 </p>
