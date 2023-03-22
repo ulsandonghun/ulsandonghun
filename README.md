@@ -43,7 +43,13 @@ Here are some ideas to get you started:
  <a href="#"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
  <a href="#"><img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>&nbsp
 </p>
+
  
  <hr>
  <h3 align="center">✍️ Tech Blog</h3>
  <p align="center"> http://ulsanboy.tistory.com </p>
+ 
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lavie67)](https://solved.ac/lavie67/)
+ 
+ 
