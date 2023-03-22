@@ -36,19 +36,14 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="center"> 👍 &nbsp;사용할 줄 알아요.</h3>
 <p align="center">
- <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/></a>&nbsp;
- <a href="#"><img src="https://img.shields.io/badge/Spring Security-darkgreen?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>&nbsp;
+
  <br/>
  <a href="#"><img src="https://img.shields.io/badge/Vue.js-00b97a?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp
  <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp  
  <a href="#"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp  
  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-ECD53F?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
  <br/>
- <a href="#"><img src="https://img.shields.io/badge/-Python-3673A5?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
- <a href="#"><img src="https://img.shields.io/badge/-Oracle-ED0000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
- <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/></a>&nbsp
  
-
 </p>
 
 <br/>
