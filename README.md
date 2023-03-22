@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:40E0D0,100:FF8C00&height=300&section=header&text=Gyun%20Hyoung%20Lee&fontColor=FFFFFF&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=꾸준하게%20지속하는%20개발자&descAlign=24&descSize=25&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:40E0D0,100:FF8C00&height=300&section=header&text=Hun%20Dong%20Choi&fontColor=FFFFFF&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=꾸준하게%20지속하는%20개발자&descAlign=24&descSize=25&descAlignY=58)
 
 
 <h3 align="center">🚀 &nbsp; 자바 백엔드 개발자를 목표합니다.</h3>
@@ -33,13 +33,12 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="center"> 👍 &nbsp;사용할 줄 알아요.</h3>
 <p align="center">
- <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/></a>&nbsp;
- 
+
  <br/>
 
- <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp  
+ <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>  
 
-</a>&nbsp 
+</a> 
  <br/>
 
 </p>
