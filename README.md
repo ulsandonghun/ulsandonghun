@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
  <br/>
  
- <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp  
+ <a href="#"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>  
   
  <br/>
  
