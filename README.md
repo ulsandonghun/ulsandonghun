@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🇰🇷 Konkuk University Dept. of SmartICTConvergence Engineering Minor Buisiness Administration (2019~) <br/>
+🌱Konkuk University Dept. of SmartICTConvergence Engineering (2019~) <br/>
 ⚒ Hyundai Factory Ulsan (2020.12 ~ 2021.2)
 <!--
 **devraphy/devraphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
