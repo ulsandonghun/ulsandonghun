@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-🌱Konkuk University Dept. of Smart ICT Convergence Engineering (2019~) <br/>
-⚒ Hyundai Factory Ulsan (2020.12 ~ 2021.2)
+<div align="center">
+  
+
+
 <!--
 **devraphy/devraphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,9 +57,19 @@ Here are some ideas to get you started:
  <h3 align="center">✍️ Tech Blog</h3>
  <p align="center"> http://ulsanboy.tistory.com </p>
  
- <h3 align="center">✍️ Learning Algoritm</h3>
+ <h3 align="center">✍️ Learning Algoritm & Language</h3>
  
+ <p align="center">
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lavie67)](https://solved.ac/lavie67/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lavie67)](https://solved.ac/lavie67/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulsandonghun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
+ </p>
+ 
+ <p align="center">
+🌱Konkuk University Dept. of Smart ICT Convergence Engineering (2019~) <br/>
+⚒ Hyundai Factory Ulsan (2020.12 ~ 2021.2)
+  
+ </p>
+ 
+ </div>
  
