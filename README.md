@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🇰🇷 Konkuk University Dept. of SmartICTConvergence Engineering Minor Buisiness Administration (2019~) <br/>
+⚒ Hyundai Factory Ulsan (2020.12 ~ 2021.2)
 <!--
 **devraphy/devraphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +22,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">🚀 &nbsp; 자바 백엔드 개발자를 목표합니다.</h3>
 <hr>
+
+
+
+
 <h3 align="center">📌 &nbsp;자주 사용해요.</h3>
 <p align="center">
  <a href="#"><img src="https://img.shields.io/badge/Spring-darkgreen?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp; 
