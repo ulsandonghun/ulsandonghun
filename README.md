@@ -67,7 +67,7 @@ Here are some ideas to get you started:
  
  <p align="center">
 🌱Konkuk University Dept. of Smart ICT Convergence Engineering (2019~) <br/>
-⚒ Hyundai Factory Ulsan (2020.12 ~ 2021.2)
+⚒ Hyundai Factory Ulsan (2021.12 ~ 2022.2)
   
  </p>
  
