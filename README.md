@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <div align="center">
   
 
@@ -21,8 +22,20 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:40E0D0,100:FF8C00&height=300&section=header&text=Dong%20Hun%20Choi&fontColor=FFFFFF&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=느리지만%20지속하는%20개발자&descAlign=24&descSize=25&descAlignY=58)
 
+
 <h3 align="center">🚀 &nbsp; 자바 백엔드 개발자를 목표합니다.</h3>
-<hr>
+<hr>   
+<div align="left">  
+
+- 안녕하세요 백엔드 개발자 최동훈입니다.
+- 저는 가독성과 유지보수성을 중시하여 코드를 작성하려고 합니다.
+- 테스트코드작성과 클린코드를 지향합니다.
+- 서비스 개발을 할 때 꾸준히 개선점을 파악하려고 합니다. 요구 사항을 만족 시킨 후에도 개선을 고민하고 문제점은 없는지 찾습니다.
+- 활발한 커뮤니케이션과 코드 리뷰 문화를 좋아합니다. 서로가 서로에게 인사이트를 주고 받는 팀을 지향합니다.
+- 조금이라도 꾸준하게 학습하기 위해 하루에 한 페이지라도 [학습 기록](https://ulsanboy.tistory.com/)을 깃허브와 블로그에 남기고 있습니다.
+</div>
+
+
 
 
 
