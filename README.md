@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="left">  
 
 <h6 align=left>
-<li>건국대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ )</sub> 운영 도메인 <a href="www.kusukmap.com"> kusukmap.com</a> </li>
+<li>건국대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ )</sub> 운영 도메인 <a href="https://www.kusukmap.com"> kusukmap.com</a> </li>
 
 <li>대학 연합 IT 동아리 <a href="https://github.com/itstime22">잇타(It's Time)</a> • 3기 BE <sub>(2023.02 ~ 2023.07)</sub></li>
 
