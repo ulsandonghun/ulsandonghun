@@ -36,8 +36,8 @@ Here are some ideas to get you started:
  <li> (주)스위그 프로젝트 직장인의 건강관리 서비스 '직짱건강' - <a href="https://github.com/SWYP-3rd-period-1-team">직짱건강</a> • BE <sub>(2024.01 ~ 2024.03 )</sub></li>
  <li> 건국대학교 IT 학술동아리 CONA •  <sub>(2022.06 ~ 2024.02) </sub>자바 멘토 </li>
  <li>건국대학교 학습관리센터 학습공동체 KU-HEALTH 개발팀 테크 리드 • BE <sub>(2024.03 ~)</sub></li>
- <li> 42 Seoul 이노베이션 아카데미  Project-X 'JAVA 파트" 수료 •  <sub>(2023.10 ~ 2023.11)</sub></li>
- <li>건국대학교 ESG지원단 산학연연계 SW 일경험 수료 -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  • 알엠소프트 intern BE <sub>(2024.03 ~)</sub></li>
+ <li> 42 Seoul 이노베이션 아카데미  Project-X 'JAVA" 수료 •  <sub>(2023.10 ~ 2023.11)</sub></li>
+ <li>건국대학교 ESG지원단 산학연연계 SW 일경험-(주)알엠소프트 intern -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  •  BE <sub>(2024.03 ~)</sub></li>
  <li>컴퓨터공학부 알고리즘 동아리 'ALKON' 부원 - <a href="https://solved.ac/badges/kupc2023">2023 건국대학교 프로그래밍 경진대회 KUPC</a> <sub>(2023.01 ~ 2024.03 )</sub></li>
  
  
