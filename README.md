@@ -19,20 +19,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:40E0D0,100:FF8C00&height=300&section=header&text=Dong%20Hun%20Choi&fontColor=FFFFFF&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=느리지만%20지속하는%20개발자&descAlign=24&descSize=25&descAlignY=58)
-
+-->
 
 <h3 align="center">🚀 &nbsp; 자바 백엔드 개발자를 목표합니다.</h3>
 <hr>   
 <div align="left">  
 
-- 안녕하세요 백엔드 개발자 최동훈입니다.
-- 저는 가독성과 유지보수성을 중시하여 코드를 작성하려고 합니다.
-- 테스트코드작성과 클린코드를 지향합니다.
-- 서비스 개발을 할 때 꾸준히 개선점을 파악하려고 합니다. 요구 사항을 만족 시킨 후에도 개선을 고민하고 문제점은 없는지 찾습니다.
-- 활발한 커뮤니케이션과 코드 리뷰 문화를 좋아합니다. 서로가 서로에게 인사이트를 주고 받는 팀을 지향합니다.
-- 조금이라도 꾸준하게 학습하기 위해 하루에 한 페이지라도 [학습 기록](https://ulsanboy.tistory.com/)을 깃허브와 블로그에 남기고 있습니다.
+<h6 align=left>
+<li>건국대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ )</sub> 운영 도메인 <a href="www.kusukmap.com"> kusukmap.com</a> </li>
+
+<li>대학 연합 IT 동아리 <a href="https://github.com/itstime22">잇타(It's Time)</a> • 3기 BE <sub>(2023.02 ~ 2023.07)</sub></li>
+
+ <li> 이화여대 UI동아리 UXO 음악 편지 전송 서비스 '플리보따리' <a href="https://github.com/Playlist-pack/Server">플리보따리</a>  • BE <sub>(2023.12 ~ )</sub></li>
+ <li> (주)스위그 프로젝트 직장인의 건강관리 서비스 '직짱건강' - <a href="https://github.com/SWYP-3rd-period-1-team">직짱건강</a> • BE <sub>(2024.01 ~ 2024.03 )</sub></li>
+ <li> 건국대학교 IT 학술동아리 CONA •  <sub>(2022.06 ~ 2024.02) </sub>자바 멘토 </li>
+ <li>건국대학교 학습관리센터 학습공동체 KU-HEALTH 개발팀 테크 리드 • BE <sub>(2024.03 ~)</sub></li>
+ <li> 42 Seoul 이노베이션 아카데미  Project-X 'JAVA 파트" 수료 •  <sub>(2023.10 ~ 2023.11)</sub></li>
+ <li>건국대학교 ESG지원단 산학연연계 SW 일경험 수료 -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  • 알엠소프트 intern BE <sub>(2024.03 ~)</sub></li>
+ <li>컴퓨터공학부 알고리즘 동아리 'ALKON' 부원 - <a href="https://solved.ac/badges/kupc2023">2023 건국대학교 프로그래밍 경진대회 KUPC</a> <sub>(2023.01 ~ 2024.03 )</sub></li>
+ 
+ 
+</h6>
 </div>
 
 
