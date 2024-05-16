@@ -28,17 +28,13 @@ Here are some ideas to get you started:
 <div align="left">  
 
 <h6 align=left>
-<li>건국대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ )</sub> 운영 도메인 <a href="https://www.kusukmap.com"> kusukmap.com</a> </li>
-
-<li>대학 연합 IT 동아리 <a href="https://github.com/itstime22">잇타(It's Time)</a> • 3기 BE <sub>(2023.02 ~ 2023.07)</sub></li>
-
- <li> 이화여대 UI동아리 UXO 음악 편지 전송 서비스 '플리보따리' <a href="https://github.com/Playlist-pack/Server">플리보따리</a>  • BE <sub>(2023.12 ~ )</sub></li>
+<li>건국대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ ing )</sub> 운영 도메인 <a href="https://www.kusukmap.com"> kusukmap.com</a> </li>
+ <li> 이화여대 UI동아리 UXO 음악 편지 전송 서비스 '플리보따리' <a href="https://github.com/Playlist-pack/Server">플리보따리</a>  • BE <sub>(2023.12 ~ 2024.1)</sub></li>
  <li> (주)스위그 프로젝트 직장인의 건강관리 서비스 '직짱건강' - <a href="https://github.com/SWYP-3rd-period-1-team">직짱건강</a> • BE <sub>(2024.01 ~ 2024.03 )</sub></li>
- <li> 건국대학교 IT 학술동아리 CONA   <sub>(2022.06 ~ 2024.02) </sub>자바 멘토 </li>
- <li> 건국대학교 We-in교육센터 학습공동체 KU-HEALTH 개발팀 <sub>(2024.03 ~)</sub></li>
- <li> 과학기술정보통신부 이노베이션 아카데미  Project-X "JAVA" 수료  <sub>(2023.10 ~ 2023.12)</sub></li>
- <li>건국대학교 ESG지원단 산학연연계 SW 일경험-(주)알엠소프트 intern -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  •  BE <sub>(2024.03 ~)</sub></li>
- <li>컴퓨터공학부 알고리즘 동아리 'ALKON' 부원 - <a href="https://solved.ac/badges/kupc2023">2023 건국대학교 프로그래밍 경진대회 KUPC 본선</a> <sub>(2023.01 ~ 2024.03 )</sub></li>
+  <li>대학 연합 IT 동아리 <a href="https://github.com/itstime22">잇타(It's Time)</a> • 3기 BE <sub>(2023.02 ~ 2023.07)</sub></li>
+ <li> 건국대학교 IT 학술동아리 CONA <sub>(2022.06 ~ 2024.02) </sub> </li>
+ <li>건국대학교 산학연연계 SW 일경험-(주)알엠소프트 intern -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  •  BE <sub>(2023.07 ~ 2023.09)</sub></li>
+ <li>컴퓨터공학부 알고리즘 동아리 'ALKON' 부원 - <a href="https://solved.ac/badges/kupc2023">2023 건국대학교 프로그래밍 경진대회 KUPC 본선</a> <sub>(2023.09 ~ 2024.09 )</sub></li>
  
  
 </h6>
