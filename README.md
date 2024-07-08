@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <li>건국대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ ing )</sub> 운영 도메인 <a href="https://www.kusukmap.com"> kusukmap.com</a> </li>
  <li> 이화여대 동아리UXO 음악 편지 전송 서비스 '플리보따리' <a href="https://github.com/Playlist-pack/Server">플리보따리</a>  • BE <sub>(2023.12 ~ 2024.1)</sub></li>
  <li> (주)스위그 프로젝트 직장인의 건강관리 서비스 '직짱건강' - <a href="https://github.com/SWYP-3rd-period-1-team/zigzzang-backend">직짱건강</a> • BE <sub>(2024.01 ~ 2024.03 )</sub></li>
+   <li> 건국대학교 해커톤 KU:RUSH 건대 유학생들을 위한 서비스 '꼬물가이드' <a href="https://github.com/KONKUK-HACKATON/Server">꼬물가이드</a>  • BE <sub>(2024.07.05 ~ 2024.07.06)</sub></li>
   <li>대학 연합 IT 동아리 <a href="https://github.com/itstime22">잇타(It's Time)</a> • 3기 BE <sub>(2023.02 ~ 2023.07)</sub></li>
  <li> 건국대학교 IT 학술동아리 CONA <sub>(2022.06 ~ 2024.02) </sub> </li>
  <li>건국대학교 산학연연계 SW 일경험-(주)알엠소프트 intern -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  •  BE <sub>(2023.07 ~ 2023.09)</sub></li>
