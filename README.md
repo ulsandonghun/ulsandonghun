@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 <div align="left">  
 
 <h6 align=left>
-<li>건국대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ ing )</sub> 운영 도메인 <a href="https://www.kusukmap.com"> kusukmap.com</a> </li>
- <li> 이화여대 동아리UXO 음악 편지 전송 서비스 '플리보따리' <a href="https://github.com/Playlist-pack/Server">플리보따리</a>  • BE <sub>(2023.12 ~ 2024.1)</sub></li>
+<li>OO대학교 장소공유서비스 쿠석쿠석 TeamLeader - <a href="https://github.com/KONKUK-MAP-Service/Ku-suk-Ku-suk">쿠석쿠석 </a> • Founder • BE <sub> (2023.12 ~ ing )</sub> 운영 도메인 <a href="https://www.kusukmap.com"> kusukmap.com</a> </li>
+ <li> OO대학교 동아리UXO 음악 편지 전송 서비스 '플리보따리' <a href="https://github.com/Playlist-pack/Server">플리보따리</a>  • BE <sub>(2023.12 ~ 2024.1)</sub></li>
  <li> (주)스위그 프로젝트 직장인의 건강관리 서비스 '직짱건강' - <a href="https://github.com/SWYP-3rd-period-1-team/zigzzang-backend">직짱건강</a> • BE <sub>(2024.01 ~ 2024.03 )</sub></li>
-   <li> 건국대학교 해커톤 KU:RUSH 건대 유학생들을 위한 서비스 '꼬물가이드' <a href="https://github.com/KONKUK-HACKATON/Server">꼬물가이드</a>  • BE <sub>(2024.07.05 ~ 2024.07.06)</sub></li>
+   <li> OO대학교 해커톤 OO:RUSH O대 유학생들을 위한 서비스 '꼬물가이드' <a href="https://github.com/KONKUK-HACKATON/Server">꼬물가이드</a>  • BE <sub>(2024.07.05 ~ 2024.07.06)</sub></li>
   <li>대학 연합 IT 동아리 <a href="https://github.com/itstime22">잇타(It's Time)</a> • 3기 BE <sub>(2023.02 ~ 2023.07)</sub></li>
- <li> 건국대학교 IT 학술동아리 CONA <sub>(2022.06 ~ 2024.02) </sub> </li>
- <li>건국대학교 산학연연계 SW 일경험-(주)알엠소프트 intern -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  •  BE <sub>(2023.07 ~ 2023.09)</sub></li>
- <li>컴퓨터공학부 알고리즘 동아리 'ALKON' 부원 - <a href="https://solved.ac/badges/kupc2023">2023 건국대학교 프로그래밍 경진대회 KUPC 본선</a> <sub>(2023.09 ~ 2024.09 )</sub></li>
+ <li> OO대학교 IT 학술동아리 CONA <sub>(2022.06 ~ 2024.02) </sub> </li>
+ <li>OO대학교 산학연연계 SW 일경험-(주)알엠소프트 intern -<a href="https://github.com/ulsandonghun/Popify_Server">Popify</a>  •  BE <sub>(2023.07 ~ 2023.09)</sub></li>
+ <li>컴퓨터공학부 알고리즘 동아리 'ALKON' 부원 - <a href="https://solved.ac/badges/kupc2023">2023 OO대학교 프로그래밍 경진대회 OOOO 본선</a> <sub>(2023.09 ~ 2024.09 )</sub></li>
  
  
 </h6>
@@ -96,8 +96,8 @@ Here are some ideas to get you started:
  </p>
  
  <p align="center">
-🌱Konkuk University Dept. of Smart ICT Convergence Engineering (2019~) <br/>
-⚒ Hyundai Factory Ulsan (2021.12 ~ 2022.2)
+🌱OO University Dept. of OOEngineering (2019~) <br/>
+⚒ Hyundai Factory OO (2021.12 ~ 2022.2)
   
  </p>
  
